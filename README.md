@@ -7,7 +7,7 @@ Thank you for choosing to use DriverNote Pro ("the App"). We are committed to pr
 This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
 
 ## 1. Information We Collect
-We collect minimal information to ensure the App functions correctly. 
+We collect minimal information to ensure the App functions correctly.
 - **Account Information:** When you log in using Firebase Authentication (Email/Password or Google Sign-In), we collect your email address and profile picture URL solely for account management and displaying your profile within the App.
 - **App Data:** All your trip details, income, expenses, and settings are stored locally on your device using a local database. We do not collect or store this data on our servers.
 
@@ -26,7 +26,7 @@ The App uses third-party services that may collect information used to identify 
 We use administrative, technical, and physical security measures to help protect your personal information (such as Biometric/PIN lock). While we have taken reasonable steps to secure the personal information you provide, please be aware that despite our efforts, no security measures are perfect or impenetrable.
 
 ## 5. Data Deletion & Retention
-- You have the complete right to delete your data. 
+- You have the complete right to delete your data.
 - You can use the **"Clear All Data"** button within the App's Settings to permanently delete all your local records.
 - To delete your cloud backup, you can simply delete the backup file directly from your Google Drive.
 
